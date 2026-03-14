@@ -4,4 +4,4 @@ Git is a version control system.
 Git is a version control system.
 Git is a version control system.
 Git is a version control system.
-
+Git requires explicit actions.
